@@ -1,0 +1,222 @@
+.immagine{
+    background-image: url(header.jpg);
+    background-image : linear-gradient(to top, rgba(7, 43, 80),rgba(7, 43, 80,0.6)) ,url(header.jpg);
+    width: 100%;
+    height: 100vh;
+}
+h1{font-size: 80px;
+
+}
+.navbar{
+    background-color: rgb(15, 28, 104);
+}
+.margine-s{
+    border-left: 2px solid white;
+}
+
+.cholore{
+  color:   rgb(15, 28, 104);
+}
+ 
+.grandezza{
+    font-size: 60px;
+}
+
+.virgolette{
+  height:30px ;
+  width: 30px;
+  
+    
+}
+.power-plant{
+    background-image: url(power-plant-4712830_1280.jpg);
+    background-image : linear-gradient(to top, rgba(7, 43, 80),rgba(7, 43, 80,0.6)) ,url(power-plant-4712830_1280.jpg);
+    width: 100%;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.riga1{
+width: 100vw;
+height: 60vh;
+font-size: 40px;
+}
+.box-1{
+background-color: rgb(15, 28, 104);
+width: 40vw;
+height: 70vh;
+z-index: 1;
+position: relative;
+bottom: 100px;
+left: 70px;
+border: solid 2px white;
+}
+.box-2{
+    width: 40vw;
+    height: 70vh;
+    z-index: 3; 
+    position: relative;
+    background-color: white;
+    right: 50px;
+   bottom: 50px;
+}
+.titolo{
+   color: rgb(15, 28, 104);
+}
+.bottone{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(15, 28, 104);
+    color: white;
+    font-size: 20px;
+    
+}
+.img-1{
+background-image: url(https://www.macitynet.it/wp-content/uploads/2022/04/smartphone-narzo-generica.jpg);
+width: 450px;
+height: 180px;
+background-position: center;
+background-size: cover;
+box-shadow: 20px 10px 5px rgb(179, 190, 193);
+
+}
+.img-2{
+    background-image: url(https://www.pressinbag.it/images/news/nuvole-il-cielo-che-aspetti.jpg);
+    width: 450px;
+    height: 180px;
+    background-position: center;
+    background-size: cover;
+    box-shadow: 20px 10px 5px rgb(179, 190, 193);
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.7)), url(https://www.pressinbag.it/images/news/nuvole-il-cielo-che-aspetti.jpg);
+}
+.img-3{
+    background-image: url(https://livesicilia.it/wp-content/uploads/2021/09/meteo-sole.jpg?w=648&h=340&crop=1);
+    width: 450px;
+    height: 180px;
+    background-position: center;
+    background-size: cover;
+    box-shadow: 20px 10px 5px rgb(179, 190, 193);
+}
+.img-4{
+    background-image: url(https://img.wallpapic.it/i1962-027-931/medium/montagne-innevate-neve-natura-inverno-sfondo.jpg);
+    width: 450px;
+    height: 180px;
+    background-position: center;
+    background-size: cover;
+    box-shadow: 20px 10px 5px rgb(179, 190, 193);
+}
+.altezza-riga{
+    height: 300px;
+    position: relative;
+    top: 50px;
+}
+.striscia-blu{
+    background-color:rgb(15, 28, 104) ;
+    height: 400px;
+}
+.img-5{
+    background-image: url(sun.png);
+    width: 350px;
+    height: 180px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    bottom: 50px;
+    background-image: linear-gradient(to top, rgba(7, 43, 80),rgba(7, 43, 80,0.6)), url(sun.png);
+  
+}
+.img-6{
+    background-image: url(wind.png);
+    width: 350px;
+    height: 180px;
+    background-position: center;
+    background-size: cover;
+  position: relative;
+  bottom: 50px;
+  background-image: linear-gradient(to top, rgba(7, 43, 80),rgba(7, 43, 80,0.6)), url(wind.png);
+}
+.img-7{
+    background-image: url(wave.png);
+    width: 350px;
+    height: 180px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    bottom: 50px;
+    background-image: linear-gradient(to top, rgba(7, 43, 80),rgba(7, 43, 80,0.6)), url(wave.png);
+  
+}
+.img-8{
+    background-image: url(gas.png);
+    width: 350px;
+    height: 180px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    background-image: linear-gradient(to top, rgba(7, 43, 80),rgba(7, 43, 80,0.6)), url(gas.png);
+    
+  
+}
+.img-9{
+    background-image: url(oil.png);
+    width: 350px;
+    height: 180px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    background-image: linear-gradient(to top, rgba(7, 43, 80),rgba(7, 43, 80,0.6)), url(oil.png);
+    
+  
+}
+.img-10{
+    background-image: url(nuclear.png);
+    width: 350px;
+    height: 180px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    background-image: linear-gradient(to top, rgba(7, 43, 80),rgba(7, 43, 80,0.6)), url(nuclear.png);
+   
+  
+}
+.card-ombra{
+box-shadow:5px -2px 5px  5px  gray;
+width: 250px;
+height: 230px;
+}
+.barra1{
+    height: 10px;
+    width: 170px;
+    background-color:rgb(15, 28, 104) ;
+}
+.barra2{
+    height: 10px;
+    width: 260px;
+    background-color:rgb(15, 28, 104) ;
+}
+.barra3{
+    height: 10px;
+    width: 360px;
+    background-color:rgb(15, 28, 104) ;
+}
+.barra4{
+    height: 10px;
+    width: 420px;
+    background-color:rgb(15, 28, 104) ;
+}
+.barra5{
+    height: 10px;
+    width: 310px;
+    background-color:rgb(15, 28, 104) ;
+}
+.sfondo-nero{
+    background-color: black;
+}
+.sfondo-blu{
+   background-color:  rgb(15, 28, 104) ;
+   width: 400px;
+   height: 320px;
+   position: relative;
+   bottom: 30px;
+}
